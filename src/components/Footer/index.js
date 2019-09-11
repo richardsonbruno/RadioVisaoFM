@@ -14,18 +14,13 @@ export default function Footer() {
           <li>
             <a
               href="https://www.facebook.com/R%C3%A1dio-Vis%C3%A3o-FM-879-464423113943744/"
-              target="_blank"
               rel="Facebook"
             >
               <i className="fa fa-facebook" />
             </a>
           </li>
           <li>
-            <a
-              href="https://www.instagram.com/visaofm/"
-              target="_blank"
-              rel="Instagram"
-            >
+            <a href="https://www.instagram.com/visaofm/" rel="Instagram">
               <i className="fa fa-instagram" />
             </a>
           </li>

@@ -33,7 +33,7 @@ export default class Content extends React.Component {
 
         <audio
           id="myAudio"
-          src="http://centova1.plugarhost.com.br:8078/;stream/1"
+          src="https://on.sucesso.fm/visao"
           preload="auto"
           autoPlay
         />
