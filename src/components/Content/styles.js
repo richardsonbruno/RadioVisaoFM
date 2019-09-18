@@ -56,3 +56,20 @@ export const PlayPause = styled.button`
     color: #fff;
   }
 `;
+
+export const ButtonRadio = styled.button`
+  background: red;
+  color: #fff;
+  width: 75px;
+  cursor: pointer;
+  height: 75px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-center: center;
+  z-index: 999;
+  border: none;
+  position: absolute;
+  right: 50px;
+  bottom: 50px;
+`;
